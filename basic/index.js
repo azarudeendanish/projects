@@ -1,0 +1,3 @@
+myFunc(){
+    alert('Good Morning');
+}
